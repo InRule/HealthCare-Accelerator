@@ -1,4 +1,4 @@
-#Healthcare Eligibility Accelerator
+# Healthcare Eligibility Accelerator
 
 This rule application demonstrates the basic strategies and patters for determining healthcare and Medicaid eligibility. It contains the following capabilities.
 * The Healthcare Accelerator application provides an annotated schema based on the Health Insurance Marketplace Application for Health Coverage & Help Paying Costs (Form OMB No. 0938-1191). 
