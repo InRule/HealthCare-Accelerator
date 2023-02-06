@@ -1,0 +1,463 @@
+{
+  "ApplicationDate": "2023-01-01T00:00:00",
+  "ProcessDate": "2023-01-03T00:00:00",
+  "EffectiveDate": "2023-01-03T00:00:00",
+  "HomeAddress": {
+    "Address1": "1313 Mockingbird Lane",
+    "City": "Lands End",
+    "State": "KS",
+    "ZIPCode": "856578",
+    "County": "Cook"
+  },
+  "MailingAddress": {
+    "Address1": "1313 Mockingbird Lane",
+    "City": "Lands End",
+    "State": "KS",
+    "ZIPCode": "856578",
+    "County": "Cook"
+  },
+  "EmailInd": false,
+  "EmailAddress": "",
+  "PreferredWrittenLanguage": "English",
+  "PreferredSpokenLanguage": "English",
+  "ApplicationStatus": "In-progress",
+  "Applicants": [
+    {
+      "PersonID": "134356",
+      "FirstName": "Bob",
+      "MiddleName": "Lando",
+      "LastName": "Smith",
+      "RelationshipToPayee": "Self",
+      "Married": true,
+      "DateOfBirth": "1995-09-01T00:00:00",
+      "Sex": "Male",
+      "SocialSecurityNumber": "111-222-3334",
+      "PlanToFileATaxReturnNextYear": true,
+      "WillFileJointlyWithSpouse": true,
+      "PersonIDOFSpouse": "1343767",
+      "FirstNameOfSpouse": "Barbara",
+      "LastNameOfSpouse": "Smith",
+      "WillClaimDependentsOnTaxReturn": true,
+      "Dependents": [
+        {
+          "PersonID": "1353888",
+          "DependentFirstName": "Mark",
+          "DependentLastName": "Smith",
+          "RelationshipToPayee": " Child (including adopted child)"
+        },
+        {
+          "PersonID": "136945888",
+          "DependentFirstName": "Jane",
+          "DependentLastName": "Smith",
+          "RelationshipToPayee": " Child (including adopted child)"
+        }
+      ],
+      "WillBeClaimedAsDependent": false,
+      "IDofTaxFiler": "134356",
+      "FirstNameOfTaxFiler": "Bob",
+      "LastNameOfTaxFiler": "Smith",
+      "RelationshipToTaxFiler": "Self",
+      "IsPregnant": false,
+      "ExpectedNumberOfBabies": 0,
+      "ApplyingForCoverage": true,
+      "HaveHealthConditionCauseingLimitations": false,
+      "IsCitizenOrNational": true,
+      "IsNaturalizedOrDerived": false,
+      "CaretakerForChildUnder19": true,
+      "ChildrenUnder19": [
+        {
+          "PersonID": "1353888",
+          "DependentFirstName": "Mark",
+          "DependentLastName": "Smith",
+          "RelationshipToPayee": " Child (including adopted child)"
+        },
+        {
+          "PersonID": "136945888",
+          "DependentFirstName": "Jane",
+          "DependentLastName": "Smith",
+          "RelationshipToPayee": " Child (including adopted child)"
+        }
+      ],
+      "HispanicOrLatinoEthnicity": {
+        "IsMexican": false,
+        "IsMexicanAmerican": false,
+        "IsChicano": false,
+        "IsPuertoRican": false,
+        "IsCuban": false
+      },
+      "Race": {
+        "IsWhite": true,
+        "IsBlackOrAfricanAmerican": true,
+        "IsAmericanIndianOrAlaskanNative": false,
+        "IsFilipino": false,
+        "IsJapanese": false,
+        "IsKorean": false,
+        "IsAsianIndian": false,
+        "IsChinese": false,
+        "IsVietnamese": false,
+        "IsOtherAsian": false,
+        "IsnativeHawaiian": false,
+        "IsGuamanianOrChamorro": false,
+        "IsSamoan": false,
+        "IsOtherPacificIslander": false,
+        "IsOther": false
+      },
+      "IsEmployed": true,
+      "IsSelfEmployed": false,
+      "Employments": [
+        {
+          "EmployerName": "Pied Piper",
+          "EmployerAddress": "2523 Silicon Valley Ln",
+          "EmployerCity": "Lands End",
+          "EmployerState": "KS",
+          "EmployerZIPCode": "856578",
+          "EmplyePhoneNumber": "555-2323",
+          "WagesAndTipsBeforeTaxes": 1300.0,
+          "PayPeriod": "Monthly",
+          "AverageHoursWorkedEachWeek": 40.0
+        }
+      ],
+      "EmploymentChangesLastYear": "None of these",
+      "IncomeFromAnotherSource": false,
+      "OtherIncomes": [
+        {
+          "Type": "Other income",
+          "OtherDescription": "Bank interest",
+          "Amount": 200.0,
+          "PayPeriod": "Yearly"
+        }
+      ],
+      "Deductions": [
+        {
+          "Type": "Student loan interest",
+          "Amount": 200.0,
+          "PayPeriod": "Monthly"
+        }
+      ],
+      "IncomeHardToPredict": false,
+      "CoveredByEmployerInsurance": false,
+      "CoveredByCOBRA": false,
+      "CoveredByMedicaid": false,
+      "CoveredByCHIP": false,
+      "CoveredByMedicare": false,
+      "CoveredByTRICARE": false,
+      "CoveredByVAHealthcareProgram": false,
+      "CoveredByPeaceCorps": false,
+      "CoveredByOther": false,
+      "CoveredByLimitedBenefitPlan": false,
+      "EmployerHealthCare": {},
+      "AdditionalInfoForAmericanIndians": {},
+      "PersonVerifications": [
+        {
+          "VerificationType": "Citizenship",
+          "PassedVerification": true,
+          "Date": "2023-01-01T00:00:00"
+        },
+        {
+          "VerificationType": "Identity",
+          "PassedVerification": true,
+          "Date": "2023-01-01T00:00:00"
+        },
+        {
+          "VerificationType": "SSN",
+          "PassedVerification": false,
+          "Date": "2023-01-01T00:00:00"
+        }
+      ]
+    },
+    {
+      "PersonID": "1343767",
+      "FirstName": "Barbara",
+      "MiddleName": "Jane",
+      "LastName": "Smith",
+      "RelationshipToPayee": "Spouse",
+      "Married": true,
+      "DateOfBirth": "1999-03-23T00:00:00",
+      "Sex": "Female",
+      "SocialSecurityNumber": "566-88-5555",
+      "PlanToFileATaxReturnNextYear": false,
+      "WillFileJointlyWithSpouse": true,
+      "PersonIDOFSpouse": "134356",
+      "FirstNameOfSpouse": "Bob",
+      "LastNameOfSpouse": "Smith",
+      "WillClaimDependentsOnTaxReturn": false,
+      "WillBeClaimedAsDependent": false,
+      "RelationshipToTaxFiler": "Spouse",
+      "IsPregnant": true,
+      "ExpectedNumberOfBabies": 1,
+      "PregnancyExpectedDate": "2023-07-23T00:00:00",
+      "ApplyingForCoverage": true,
+      "HaveHealthConditionCauseingLimitations": false,
+      "IsCitizenOrNational": false,
+      "IsNaturalizedOrDerived": true,
+      "AlienNumber": "223436XF",
+      "EligibleImmigrationStatus": true,
+      "ImmigrationDocumentationType": "Value1Permanent Resident Card, “Green Card” (I-551) ",
+      "LivedInTheUSSince1996": true,
+      "VeteranOrActiveDutyMemberOrSpouse": true,
+      "NeedAssistanceForMedicalBills": false,
+      "CaretakerForChildUnder19": true,
+      "ChildrenUnder19": [
+        {
+          "PersonID": "1353888",
+          "DependentFirstName": "Mark ",
+          "DependentLastName": "Smith",
+          "RelationshipToPayee": " Child (including adopted child)"
+        },
+        {
+          "PersonID": "136945888",
+          "DependentFirstName": "Jane",
+          "DependentLastName": "Smith",
+          "RelationshipToPayee": " Child (including adopted child)"
+        }
+      ],
+      "FullTimeStudent": false,
+      "InFosterCareAt18OrOlder": false,
+      "HispanicOrLatinoEthnicity": {
+        "IsMexican": true,
+        "IsMexicanAmerican": false,
+        "IsChicano": true,
+        "IsPuertoRican": false,
+        "IsCuban": false
+      },
+      "Race": {
+        "IsWhite": true,
+        "IsBlackOrAfricanAmerican": false,
+        "IsAmericanIndianOrAlaskanNative": false,
+        "IsFilipino": false,
+        "IsJapanese": false,
+        "IsKorean": false,
+        "IsAsianIndian": false,
+        "IsChinese": false,
+        "IsVietnamese": false,
+        "IsOtherAsian": false,
+        "IsnativeHawaiian": false,
+        "IsGuamanianOrChamorro": false,
+        "IsSamoan": false,
+        "IsOtherPacificIslander": false,
+        "IsOther": false
+      },
+      "IsEmployed": true,
+      "IsSelfEmployed": false,
+      "Employments": [
+        {
+          "EmployerName": "Quick Stop",
+          "EmployerAddress": "232 Monmouth",
+          "EmployerCity": "Lands End",
+          "EmployerState": "KS",
+          "EmployerZIPCode": "945454",
+          "WagesAndTipsBeforeTaxes": 8.25,
+          "PayPeriod": "Hourly",
+          "AverageHoursWorkedEachWeek": 25.0
+        }
+      ],
+      "EmploymentChangesLastYear": "Start working fewer hours",
+      "IncomeFromAnotherSource": false,
+      "IncomeHardToPredict": false,
+      "CoveredByEmployerInsurance": false,
+      "CoveredByCOBRA": false,
+      "CoveredByMedicaid": false,
+      "CoveredByCHIP": false,
+      "CoveredByMedicare": false,
+      "CoveredByTRICARE": false,
+      "CoveredByVAHealthcareProgram": false,
+      "CoveredByPeaceCorps": false,
+      "CoveredByOther": false,
+      "EmployerHealthCare": {},
+      "AdditionalInfoForAmericanIndians": {}
+    },
+    {
+      "PersonID": "1353888",
+      "FirstName": "Mark",
+      "MiddleName": "Elias",
+      "LastName": "Smith",
+      "RelationshipToPayee": " Child (including adopted child)",
+      "Married": false,
+      "DateOfBirth": "2010-07-12T00:00:00",
+      "Sex": "Male",
+      "SocialSecurityNumber": "777-22-4444",
+      "PlanToFileATaxReturnNextYear": false,
+      "WillFileJointlyWithSpouse": false,
+      "WillBeClaimedAsDependent": true,
+      "IDofTaxFiler": "134356",
+      "FirstNameOfTaxFiler": "Bob Smith",
+      "RelationshipToTaxFiler": " Child (including adopted child)",
+      "IsPregnant": false,
+      "ExpectedNumberOfBabies": 0,
+      "ApplyingForCoverage": true,
+      "HaveHealthConditionCauseingLimitations": false,
+      "IsCitizenOrNational": true,
+      "IsNaturalizedOrDerived": false,
+      "EligibleImmigrationStatus": false,
+      "LivedInTheUSSince1996": false,
+      "VeteranOrActiveDutyMemberOrSpouse": false,
+      "NeedAssistanceForMedicalBills": false,
+      "CaretakerForChildUnder19": false,
+      "FullTimeStudent": false,
+      "InFosterCareAt18OrOlder": false,
+      "HispanicOrLatinoEthnicity": {
+        "IsMexican": false,
+        "IsMexicanAmerican": true,
+        "IsChicano": false,
+        "IsPuertoRican": false,
+        "IsCuban": false
+      },
+      "Race": {
+        "IsWhite": true,
+        "IsBlackOrAfricanAmerican": false,
+        "IsAmericanIndianOrAlaskanNative": false,
+        "IsFilipino": false,
+        "IsJapanese": false,
+        "IsKorean": false,
+        "IsAsianIndian": false,
+        "IsChinese": false,
+        "IsVietnamese": false,
+        "IsOtherAsian": false,
+        "IsnativeHawaiian": false,
+        "IsGuamanianOrChamorro": false,
+        "IsSamoan": false,
+        "IsOtherPacificIslander": false,
+        "IsOther": false
+      },
+      "IsEmployed": false,
+      "IsSelfEmployed": false,
+      "IncomeFromAnotherSource": false,
+      "IncomeHardToPredict": false,
+      "CoveredByEmployerInsurance": false,
+      "CoveredByCOBRA": false,
+      "CoveredByMedicaid": false,
+      "CoveredByCHIP": false,
+      "CoveredByMedicare": false,
+      "CoveredByTRICARE": false,
+      "CoveredByVAHealthcareProgram": false,
+      "CoveredByPeaceCorps": false,
+      "CoveredByOther": false,
+      "MaleParentID": "134356",
+      "FemaleParentID": "1343767",
+      "CoveredByLimitedBenefitPlan": false,
+      "EmployerHealthCare": {},
+      "AdditionalInfoForAmericanIndians": {},
+      "PersonVerifications": [
+        {
+          "VerificationType": "Citizenship",
+          "PassedVerification": false,
+          "Date": "2023-02-04T00:00:00"
+        },
+        {
+          "VerificationType": "Identity",
+          "PassedVerification": true,
+          "Date": "2023-02-04T00:00:00"
+        },
+        {
+          "VerificationType": "SSN",
+          "PassedVerification": false,
+          "Date": "2023-02-04T00:00:00"
+        }
+      ]
+    },
+    {
+      "PersonID": "136945888",
+      "FirstName": "Jane",
+      "MiddleName": "Elanor",
+      "LastName": "Smith",
+      "RelationshipToPayee": " Child (including adopted child)",
+      "Married": false,
+      "DateOfBirth": "2019-05-02T00:00:00",
+      "Sex": "Female",
+      "SocialSecurityNumber": "665789999",
+      "PlanToFileATaxReturnNextYear": false,
+      "WillFileJointlyWithSpouse": false,
+      "WillClaimDependentsOnTaxReturn": false,
+      "WillBeClaimedAsDependent": true,
+      "IDofTaxFiler": "134356",
+      "FirstNameOfTaxFiler": "Bob",
+      "LastNameOfTaxFiler": "Smith",
+      "RelationshipToTaxFiler": " Child (including adopted child)",
+      "IsPregnant": false,
+      "ExpectedNumberOfBabies": 0,
+      "ApplyingForCoverage": true,
+      "HaveHealthConditionCauseingLimitations": false,
+      "IsCitizenOrNational": true,
+      "IsNaturalizedOrDerived": false,
+      "LivedInTheUSSince1996": false,
+      "VeteranOrActiveDutyMemberOrSpouse": false,
+      "NeedAssistanceForMedicalBills": true,
+      "CaretakerForChildUnder19": false,
+      "FullTimeStudent": true,
+      "InFosterCareAt18OrOlder": false,
+      "HispanicOrLatinoEthnicity": {
+        "IsMexican": false,
+        "IsMexicanAmerican": true,
+        "IsChicano": false,
+        "IsPuertoRican": false,
+        "IsCuban": false
+      },
+      "Race": {
+        "IsWhite": true,
+        "IsBlackOrAfricanAmerican": false,
+        "IsAmericanIndianOrAlaskanNative": false,
+        "IsFilipino": false,
+        "IsJapanese": false,
+        "IsKorean": false,
+        "IsAsianIndian": false,
+        "IsChinese": false,
+        "IsVietnamese": false,
+        "IsOtherAsian": false,
+        "IsnativeHawaiian": false,
+        "IsGuamanianOrChamorro": false,
+        "IsSamoan": false,
+        "IsOtherPacificIslander": false,
+        "IsOther": false
+      },
+      "IsEmployed": false,
+      "IsSelfEmployed": false,
+      "IncomeHardToPredict": false,
+      "CoveredByEmployerInsurance": false,
+      "CoveredByCOBRA": false,
+      "CoveredByMedicaid": false,
+      "CoveredByCHIP": false,
+      "CoveredByMedicare": false,
+      "CoveredByTRICARE": false,
+      "CoveredByVAHealthcareProgram": false,
+      "CoveredByPeaceCorps": false,
+      "CoveredByOther": false,
+      "MaleParentID": "134356",
+      "FemaleParentID": "1343767",
+      "CoveredByLimitedBenefitPlan": false,
+      "EmployerHealthCare": {},
+      "AdditionalInfoForAmericanIndians": {},
+      "PersonVerifications": [
+        {
+          "VerificationType": "Citizenship",
+          "PassedVerification": true
+        },
+        {
+          "VerificationType": "SSN",
+          "PassedVerification": true
+        },
+        {
+          "VerificationType": "Identity",
+          "PassedVerification": true
+        }
+      ]
+    }
+  ],
+  "AnyAmericanIndianOrAlaskanNative": false,
+  "AnyPersonNotEligibleForMedicaidCHIP": false,
+  "AnyPersonNotEligibleForMedicaidCHIPDueToImmigration": false,
+  "AnyoneApplyForCoverageDuringOpenEnrollment": false,
+  "IsAnyoneOfferedHealthCoverageFromJob": false,
+  "IsAnyoneOfferedStateEmployeeBenefitPlan": false,
+  "IsAnyoneOfferedSHRAOrQSEHRA": false,
+  "IsAnyoneEnrolledHealthCoverageNow": false,
+  "AgreeToAllowMarketplaceToUseIncomeDataForNext5Yrs": true,
+  "NumberOfYearsToAutomaticallyUpdateIncome": "5 Years",
+  "DoNotUseTaxDataToRenew": false,
+  "IsAnyoneIncarcerated": false,
+  "AgreeToLetMarketplaceEndCoverage": true,
+  "AnyoneHaveAParentOutsideTheHome": false,
+  "NavigatorOrAgent": {},
+  "AuthorizaedRepresentative": {
+    "Address": {}
+  }
+}

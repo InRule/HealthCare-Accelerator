@@ -1,0 +1,149 @@
+{
+  "ApplicationDate": "2023-01-01T00:00:00",
+  "ProcessDate": "2023-01-03T00:00:00",
+  "EffectiveDate": "2023-01-03T00:00:00",
+  "HomeAddress": {
+    "Address1": "1313 Mockingbird Lane",
+    "City": "Lands End",
+    "State": "KS",
+    "ZIPCode": "856578",
+    "County": "Cook"
+  },
+  "MailingAddress": {
+    "Address1": "1313 Mockingbird Lane",
+    "City": "Lands End",
+    "State": "KS",
+    "ZIPCode": "856578",
+    "County": "Cook"
+  },
+  "EmailInd": false,
+  "EmailAddress": "",
+  "PreferredWrittenLanguage": "English",
+  "PreferredSpokenLanguage": "English",
+  "ApplicationStatus": "In-progress",
+  "Applicants": [
+    {
+      "PersonID": "1343767",
+      "FirstName": "Barbara",
+      "MiddleName": "Jane",
+      "LastName": "Smith",
+      "RelationshipToPayee": "Self",
+      "Married": true,
+      "DateOfBirth": "1999-03-23T00:00:00",
+      "Sex": "Female",
+      "SocialSecurityNumber": "566-88-5555",
+      "PlanToFileATaxReturnNextYear": true,
+      "WillFileJointlyWithSpouse": false,
+      "PersonIDOFSpouse": "134356",
+      "FirstNameOfSpouse": "Bob",
+      "LastNameOfSpouse": "Smith",
+      "WillClaimDependentsOnTaxReturn": false,
+      "WillBeClaimedAsDependent": false,
+      "RelationshipToTaxFiler": "Self",
+      "IsPregnant": true,
+      "ExpectedNumberOfBabies": 1,
+      "PregnancyExpectedDate": "2023-07-31T00:00:00",
+      "ApplyingForCoverage": true,
+      "HaveHealthConditionCauseingLimitations": false,
+      "IsCitizenOrNational": false,
+      "IsNaturalizedOrDerived": true,
+      "AlienNumber": "223436XF",
+      "EligibleImmigrationStatus": true,
+      "ImmigrationDocumentationType": "Value1Permanent Resident Card, “Green Card” (I-551) ",
+      "LivedInTheUSSince1996": true,
+      "VeteranOrActiveDutyMemberOrSpouse": true,
+      "NeedAssistanceForMedicalBills": false,
+      "CaretakerForChildUnder19": false,
+      "FullTimeStudent": false,
+      "InFosterCareAt18OrOlder": false,
+      "HispanicOrLatinoEthnicity": {
+        "IsMexican": true,
+        "IsMexicanAmerican": false,
+        "IsChicano": true,
+        "IsPuertoRican": false,
+        "IsCuban": false
+      },
+      "Race": {
+        "IsWhite": true,
+        "IsBlackOrAfricanAmerican": false,
+        "IsAmericanIndianOrAlaskanNative": false,
+        "IsFilipino": false,
+        "IsJapanese": false,
+        "IsKorean": false,
+        "IsAsianIndian": false,
+        "IsChinese": false,
+        "IsVietnamese": false,
+        "IsOtherAsian": false,
+        "IsnativeHawaiian": false,
+        "IsGuamanianOrChamorro": false,
+        "IsSamoan": false,
+        "IsOtherPacificIslander": false,
+        "IsOther": false
+      },
+      "IsEmployed": true,
+      "IsSelfEmployed": false,
+      "Employments": [
+        {
+          "EmployerName": "Quick Stop",
+          "EmployerAddress": "232 Monmouth",
+          "EmployerCity": "Lands End",
+          "EmployerState": "KS",
+          "EmployerZIPCode": "945454",
+          "WagesAndTipsBeforeTaxes": 8.25,
+          "PayPeriod": "Hourly",
+          "AverageHoursWorkedEachWeek": 25.0
+        }
+      ],
+      "EmploymentChangesLastYear": "Start working fewer hours",
+      "IncomeFromAnotherSource": false,
+      "IncomeHardToPredict": false,
+      "CoveredByEmployerInsurance": false,
+      "CoveredByCOBRA": false,
+      "CoveredByMedicaid": false,
+      "CoveredByCHIP": false,
+      "CoveredByMedicare": false,
+      "CoveredByTRICARE": false,
+      "CoveredByVAHealthcareProgram": false,
+      "CoveredByPeaceCorps": false,
+      "CoveredByOther": false,
+      "EmployerHealthCare": {},
+      "AdditionalInfoForAmericanIndians": {},
+      "PersonVerifications": [
+        {
+          "VerificationType": "Alienage",
+          "PassedVerification": true
+        },
+        {
+          "VerificationType": "Identity",
+          "PassedVerification": true
+        },
+        {
+          "VerificationType": "Pregnancy",
+          "PassedVerification": true
+        },
+        {
+          "VerificationType": "SSN",
+          "PassedVerification": true
+        }
+      ]
+    }
+  ],
+  "AnyAmericanIndianOrAlaskanNative": false,
+  "AnyPersonNotEligibleForMedicaidCHIP": false,
+  "AnyPersonNotEligibleForMedicaidCHIPDueToImmigration": false,
+  "AnyoneApplyForCoverageDuringOpenEnrollment": false,
+  "IsAnyoneOfferedHealthCoverageFromJob": false,
+  "IsAnyoneOfferedStateEmployeeBenefitPlan": false,
+  "IsAnyoneOfferedSHRAOrQSEHRA": false,
+  "IsAnyoneEnrolledHealthCoverageNow": false,
+  "AgreeToAllowMarketplaceToUseIncomeDataForNext5Yrs": true,
+  "NumberOfYearsToAutomaticallyUpdateIncome": "5 Years",
+  "DoNotUseTaxDataToRenew": false,
+  "IsAnyoneIncarcerated": false,
+  "AgreeToLetMarketplaceEndCoverage": true,
+  "AnyoneHaveAParentOutsideTheHome": false,
+  "NavigatorOrAgent": {},
+  "AuthorizaedRepresentative": {
+    "Address": {}
+  }
+}
