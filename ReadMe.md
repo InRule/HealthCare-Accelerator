@@ -15,5 +15,5 @@ Three scenarios with sample JSON files are provided. This will need to be tested
 * A family needing additional verification; and 
 * Housheholding calculations by relationship.
 
-## Important NOTE 
-Medicaid rules vary by state and this application is not considered to be completely comprehensive but serve as a model on how public service program eligibility determinations could be developed and architected. This application is intended to serve as a reference and an accelerator for project development.
+## NOTE 
+Medicaid rules vary by state and this rule application is not intended to cover every variance. This application is intended to serve as a reference and an accelerator for your project.
