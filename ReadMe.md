@@ -15,5 +15,5 @@ Three scenarios with sample JSON files are provided. This will need to be tested
 * A family needing additional verification; and 
 * Housheholding calculations by relationship.
 
-## NOTE 
-Medicaid rules vary by state and this rule application is not intended to cover every variance. This application is intended to serve as a reference and an accelerator for your project.
+### NOTE 
+Medicaid rules vary by state and this rule application does not cover every variance.
