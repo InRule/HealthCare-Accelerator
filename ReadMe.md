@@ -9,7 +9,11 @@ This rule application demonstrates the basic strategies and patters for determin
 * Calculates countable income and deductions based on the household calculation used.
 * Determines program eligibility for pregnancy-related services, child health program and the Medicaid expansion populations.
 
-To test the rule application, there are included three scenarios with sample test data. This will need to be tested in the context of the Application entity and can be tested in irVerify once the test data is loaded by using the Apply Rules button. We have three scenarios available. One for a single pregnant applicant who is eligible for services, a family needing additional verification, and one demonstrating housheholding calculations by relationship.
+Three scenarios with sample JSON files are provided. This will need to be tested in the context of the Application entity and can be tested in irVerify. Use the "Apply Rules" button to run.  The three scenarios for testing incude the following:
+
+* A single pregnant applicant who is eligible for services;
+* A family needing additional verification; and 
+* Housheholding calculations by relationship.
 
 ## Important NOTE 
 Medicaid rules vary by state and this application is not considered to be completely comprehensive but serve as a model on how public service program eligibility determinations could be developed and architected. This application is intended to serve as a reference and an accelerator for project development.
